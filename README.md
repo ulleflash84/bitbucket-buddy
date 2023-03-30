@@ -1,2 +1,3 @@
 # bitbucket-buddy
-Bitbucket Buddy Chrome Extension
+
+Bitbucket Buddy Chrome extension
